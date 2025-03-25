@@ -1,8 +1,8 @@
-### Hi there, I'm **Singhateh**! 👋
+# Hi there, I'm **Singhateh**! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer who loves coding, solving problems, and building innovative solutions. 🚀
+Welcome to my GitHub profile! I'm a passionate developer who loves coding, solving problems, and building innovative solutions. 💻✨
 
---
+---
 
 ### 🌟 About Me
 - 💻 Full-stack Developer
@@ -18,16 +18,16 @@ Welcome to my GitHub profile! I'm a passionate developer who loves coding, solvi
   <a href="https://www.linkedin.com/in/singhateh">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=30" />
   </a>
-  <a href="https://twitter.com/singhateh">
+  <a href="https://twitter.com/singhateh1990">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&logoWidth=30" />
   </a>
-  <a href="mailto:singhateh@gmail.com">
+  <a href="mailto:3939919@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=30" />
   </a>
   <a href="https://www.facebook.com/singhateh">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&logoWidth=30" />
   </a>
-  <a href="https://www.youtube.com/c/singhateh">
+  <a href="https://www.youtube.com/singhatehalagie">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&logoWidth=30" />
   </a>
 </p>
@@ -82,102 +82,6 @@ Welcome to my GitHub profile! I'm a passionate developer who loves coding, solvi
   <img src="https://img.shields.io/github/stars/singhateh?style=for-the-badge&color=yellow&logo=github&logoWidth=20" />
 </p>
 
-----
-
-
-# 👋 Hi there, I'm **Singhateh**! Welcome to my GitHub profile! 🚀
-
-I'm a passionate **Full-Stack Developer** with a love for building innovative solutions, solving problems, and creating exceptional **UI/UX** experiences. 💻✨
-
----
-
-## 🌟 About Me
-
-- 👨‍💻 **Full-Stack Developer** specializing in **Laravel**, **JavaScript**, and modern web technologies.
-- 🔧 Passionate about designing elegant **UI/UX** experiences that solve real-world problems.
-- 🎨 Constantly learning new technologies and expanding my skill set to stay on top of the latest trends.
-- 🚀 Open-source enthusiast — always contributing and collaborating with the community.
-
----
-
-## 🛠️ Tech Stack
-
-### 🔹 Languages & Frameworks
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Livewire](https://img.shields.io/badge/Livewire-4D4D4D?style=for-the-badge&logo=livewire&logoColor=white)
-![Inertia.js](https://img.shields.io/badge/Inertia.js-FF2D20?style=for-the-badge&logo=inertia&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### 🔹 Tools & Platforms
-
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=singhateh&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=singhateh&theme=radical&hide_border=true" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=singhateh&theme=radical" width="95%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=singhateh&layout=compact&theme=radical&hide_border=true" width="48%" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=singhateh&theme=radical&no-frame=true&margin-w=15" width="95%" />
-</div>
-
----
-
-## 📢 Community & Followers
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/singhateh?style=for-the-badge&color=blue&logo=github&logoWidth=20" />
-  <img src="https://img.shields.io/github/stars/singhateh?style=for-the-badge&color=yellow&logo=github&logoWidth=20" />
-</p>
-
----
-
-## 📫 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/singhateh">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=30" />
-  </a>
-  <a href="https://twitter.com/singhateh">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&logoWidth=30" />
-  </a>
-  <a href="mailto:singhateh@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=30" />
-  </a>
-  <a href="https://www.facebook.com/singhateh">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&logoWidth=30" />
-  </a>
-  <a href="https://www.youtube.com/c/singhateh">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&logoWidth=30" />
-  </a>
-</p>
-
----
-
 ## 🌟 Featured Projects
 
 Here are some of my standout projects:
@@ -215,7 +119,7 @@ I love contributing to open-source! Here are some of my recent contributions:
 
 Here are my top repositories based on activity and contributions:
 
-[![Top Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=singhateh&repo=repo1&theme=radical)](https://github.com/singhateh/repo1)
+[![Top Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=singhateh/Laravel-Library-Management-system&theme=radical)](https://github.com/singhateh/Laravel-Library-Management-system)
 [![Top Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=singhateh&repo=repo2&theme=radical)](https://github.com/singhateh/repo2)
 [![Top Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=singhateh&repo=repo3&theme=radical)](https://github.com/singhateh/repo3)
 
