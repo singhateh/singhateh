@@ -52,6 +52,9 @@ Welcome to my GitHub profile! I'm a passionate developer who loves coding, solvi
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=singhateh&layout=compact&theme=radical&hide_border=true" width="48%" />
 </div>
 
+
+
+#### 🔹 GitHub Trophies:
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=singhateh&theme=radical&no-frame=true&margin-w=15" width="95%" />
 </div>
