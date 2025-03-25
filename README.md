@@ -1,6 +1,6 @@
 # Hi there, I'm **Singhateh**! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer who loves coding, solving problems, and building innovative solutions. 💻✨
+I'm a passionate developer who loves coding, solving problems, and building innovative solutions. 💻✨
 
 ---
 
