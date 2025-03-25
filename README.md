@@ -82,60 +82,107 @@ Welcome to my GitHub profile! I'm a passionate developer who loves coding, solvi
   <img src="https://img.shields.io/github/stars/singhateh?style=for-the-badge&color=yellow&logo=github&logoWidth=20" />
 </p>
 
-## 🌟 Featured Projects
+### Hi there, I'm **Singhateh**! 👋
 
-Here are some of my standout projects:
-
-### 🚀 [**Project 1**](https://github.com/singhateh/project1)  
-Description of your project here. Highlight its key features, what problem it solves, and any specific technology used.
-
-### 💡 [**Project 2**](https://github.com/singhateh/project2)  
-Brief details of this project, and why it's valuable or interesting.
-
-### ⚙️ [**Project 3**](https://github.com/singhateh/project3)  
-Quick summary and links to demo or additional documentation.
+Welcome to my GitHub profile! I'm a passionate developer who loves coding, solving problems, and building innovative solutions. 🚀
 
 ---
 
-## 📚 My Blog / Tutorials
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=singhateh&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=singhateh&theme=radical&hide_border=true" width="48%" />
+</div>
 
-I love sharing my knowledge and experiences! Check out my blog posts and tutorials:
-
-- [Blog Post 1](https://medium.com/@singhateh/post-1)  
-- [Tutorial 1](https://dev.to/singhateh/tutorial-1)
-
----
-
-## 📈 Contributions
-
-I love contributing to open-source! Here are some of my recent contributions:
-
-- [Contribution 1](https://github.com/singhateh/contribution1)
-- [Contribution 2](https://github.com/singhateh/contribution2)
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=singhateh&theme=radical" width="95%" />
+</div>
 
 ---
 
-## 🔥 Top Repositories
-
-Here are my top repositories based on activity and contributions:
-
-[![Top Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=singhateh/Laravel-Library-Management-system&theme=radical)](https://github.com/singhateh/Laravel-Library-Management-system)
-[![Top Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=singhateh&repo=repo2&theme=radical)](https://github.com/singhateh/repo2)
-[![Top Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=singhateh&repo=repo3&theme=radical)](https://github.com/singhateh/repo3)
-
----
-
-## 📅 My Latest Projects
-
-I keep updating my GitHub with fresh ideas and projects. Here are some of my latest projects:
-
-- [Project 1](https://github.com/singhateh/project1)
-- [Project 2](https://github.com/singhateh/project2)
+### 🌟 About Me
+- 💻 Full-stack Developer
+- 🔧 Passionate about Laravel, JavaScript, and modern web technologies
+- 🎨 Love designing elegant UI/UX experiences
+- 📚 Always learning new skills & technologies
+- 🚀 Open-source enthusiast
 
 ---
 
-## 🎯 Fun Stats
+### 🛠️ Tech Stack
 
-- 🌍 Visitors to my GitHub: ![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=singhateh.singhateh)
-- 👨‍💻 Total Commits: ![Commits Badge](https://img.shields.io/github/commit-activity/m/singhateh?style=for-the-badge)
+#### 🔹 Languages & Frameworks:
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Livewire](https://img.shields.io/badge/Livewire-4D4D4D?style=for-the-badge&logo=livewire&logoColor=white)
+![Inertia.js](https://img.shields.io/badge/Inertia.js-FF2D20?style=for-the-badge&logo=inertia&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+#### 🔹 Tools & Platforms:
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+### 🚀 Projects & Repositories
+Here are some of my top open-source projects:
+
+- 📚 [Laravel Library Management System](https://github.com/singhateh/Laravel-Library-Management-system)
+- 🎓 [Laravel 9 LMS - Learn Management System](https://github.com/singhateh/laravel-9-lms-laravel-learn-management-system-step-by-step-2022-free-source-code)
+- 👨‍💼 [Employee Management System V2](https://github.com/singhateh/Employee-Management-System-V2)
+- 🏥 [Laravel 9 Hospital Management System](https://github.com/singhateh/laravel-9-hospital-management-system-step-by-step)
+- 🚌 [Laravel Online Bus Ticketing System](https://github.com/singhateh/Laravel-Online-Bus-Ticketing-System)
+- 📂 [Laravel 11 Document Management System](https://github.com/singhateh/Laravel-11-Document-Management-System)
+- 💰 [Laravel Invoice Management](https://github.com/singhateh/laravel-invoice-management)
+- 📱 [Laravel 8 SMS System](https://github.com/singhateh/laravel-8-sms-2022)
+- 💊 [Laravel Pharmacy Management System](https://github.com/singhateh/Laravel-Pharmacy-Management-System)
+- 🏋️ [Laravel 10 Gym Management System](https://github.com/singhateh/laravel-10-gym-management-system)
+- 🔐 [GFA](https://github.com/singhateh/GFA)
+- 🌍 [API Filesnest Warrantix](https://github.com/singhateh/Api-Filesnest-Warrantix)
+- 🔗 [Peer Backend](https://github.com/singhateh/peer_backend)
+
+---
+
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=singhateh&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=singhateh&theme=radical&no-frame=true&margin-w=15" width="48%" />
+</div>
+
+---
+
+### 📢 Community & Followers
+<p align="center">
+  <img src="https://img.shields.io/github/followers/singhateh?style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/stars/singhateh?style=for-the-badge&color=yellow" />
+</p>
+
+---
+
+### 📫 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/singhateh">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/singhateh">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="mailto:singhateh@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/singhateh">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/c/singhateh">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>
+
+---
+
+💡 *Feel free to explore my repositories and collaborate on exciting projects!* 🚀
 
