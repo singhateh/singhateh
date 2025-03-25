@@ -51,7 +51,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves coding, solvi
 
 ---
 
-#### 🔹 GitHub Trophies:
+#### 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=singhateh&theme=radical&no-frame=true&margin-w=15" width="95%" />
 </div>
