@@ -13,26 +13,25 @@ Welcome to my GitHub profile! I'm a passionate developer who loves coding, solvi
 
 ---
 
-
 ### 🛠️ Tech Stack
 
 #### 🔹 Languages & Frameworks:
 <p align="center">
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-  ![Livewire](https://img.shields.io/badge/Livewire-4D4D4D?style=for-the-badge&logo=livewire&logoColor=white)
-  ![Inertia.js](https://img.shields.io/badge/Inertia.js-FF2D20?style=for-the-badge&logo=inertia&logoColor=white)
-  ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&logoWidth=30)
+  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&logoWidth=30)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&logoWidth=30)
+  ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white&logoWidth=30)
+  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&logoWidth=30)
+  ![Livewire](https://img.shields.io/badge/Livewire-4D4D4D?style=for-the-badge&logo=livewire&logoColor=white&logoWidth=30)
+  ![Inertia.js](https://img.shields.io/badge/Inertia.js-FF2D20?style=for-the-badge&logo=inertia&logoColor=white&logoWidth=30)
+  ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&logoWidth=30)
 </p>
 
 #### 🔹 Tools & Platforms:
 <p align="center">
-  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&logoWidth=30)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=30)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&logoWidth=30)
 </p>
 
 ---
@@ -52,7 +51,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves coding, solvi
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=singhateh&layout=compact&theme=radical&hide_border=true" width="48%" />
 </div>
 
-
+---
 
 #### 🔹 GitHub Trophies:
 <div align="center">
@@ -63,8 +62,8 @@ Welcome to my GitHub profile! I'm a passionate developer who loves coding, solvi
 
 ### 📢 Community & Followers
 <p align="center">
-  <img src="https://img.shields.io/github/followers/singhateh?style=for-the-badge&color=blue" />
-  <img src="https://img.shields.io/github/stars/singhateh?style=for-the-badge&color=yellow" />
+  <img src="https://img.shields.io/github/followers/singhateh?style=for-the-badge&color=blue&logo=github&logoWidth=20" />
+  <img src="https://img.shields.io/github/stars/singhateh?style=for-the-badge&color=yellow&logo=github&logoWidth=20" />
 </p>
 
 ---
@@ -72,19 +71,19 @@ Welcome to my GitHub profile! I'm a passionate developer who loves coding, solvi
 ### 📫 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/singhateh">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=30" />
   </a>
   <a href="https://twitter.com/singhateh">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&logoWidth=30" />
   </a>
   <a href="mailto:singhateh@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=30" />
   </a>
   <a href="https://www.facebook.com/singhateh">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&logoWidth=30" />
   </a>
   <a href="https://www.youtube.com/c/singhateh">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&logoWidth=30" />
   </a>
 </p>
 
