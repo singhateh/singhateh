@@ -86,3 +86,14 @@ Welcome to my GitHub profile! I'm a passionate developer who loves coding, solvi
 </p>
 
 ---
+
+### 🔥 Top Contributed Repo
+
+[![Repository Name](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=singhateh&repo=repository-name&theme=radical)](https://github.com/singhateh/repository-name)
+
+- 🚀 **Description:** A brief description of what this repository is about, its purpose, and why it’s important to your work.
+- 🌟 **Stars:** ![GitHub Stars](https://img.shields.io/github/stars/singhateh/repository-name?style=for-the-badge&logo=github&logoColor=white)
+- 🍴 **Forks:** ![GitHub Forks](https://img.shields.io/github/forks/singhateh/repository-name?style=for-the-badge&logo=github&logoColor=white)
+
+[🔗 Visit Repo](https://github.com/singhateh/repository-name)
+
