@@ -87,13 +87,21 @@ Welcome to my GitHub profile! I'm a passionate developer who loves coding, solvi
 
 ----
 
-### 🔥 Top Contributed Repo
+## 🌟 My GitHub Stats
 
-[![Repository Name](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=singhateh&repo=repository-name&theme=radical)](https://github.com/singhateh/repository-name)
+![Top Repositories](https://github-readme-stats-sigma-five.vercel.app/api?username=singhateh&show_icons=true&theme=radical&hide_border=true)
 
-- 🚀 **Description:** A brief description of what this repository is about, its purpose, and why it’s important to your work.
-- 🌟 **Stars:** ![GitHub Stars](https://img.shields.io/github/stars/singhateh/repository-name?style=for-the-badge&logo=github&logoColor=white)
-- 🍴 **Forks:** ![GitHub Forks](https://img.shields.io/github/forks/singhateh/repository-name?style=for-the-badge&logo=github&logoColor=white)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=singhateh&layout=compact&theme=radical&hide_border=true)
 
-[🔗 Visit Repo](https://github.com/singhateh/repository-name)
+---
+
+## 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=singhateh&theme=radical&no-frame=true&margin-w=15)
+
+---
+
+## 📊 GitHub Profile Summary
+
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=singhateh&theme=radical)
 
