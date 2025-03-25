@@ -57,7 +57,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves coding, solvi
 
 ### 📊 GitHub Stats
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=singhateh&show_icons=true&theme=radical&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=singhateh&theme=radical&hide_border=true" width="48%" />
 </div>
@@ -73,18 +73,16 @@ Welcome to my GitHub profile! I'm a passionate developer who loves coding, solvi
 ---
 
 #### 🏆 GitHub Trophies
-<div align="center">
+<div align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=singhateh&theme=radical&no-frame=true&margin-w=15" width="95%" />
 </div>
 
 ---
 
 ### 📢 Community & Followers
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/github/followers/singhateh?style=for-the-badge&color=blue&logo=github&logoWidth=20" />
   <img src="https://img.shields.io/github/stars/singhateh?style=for-the-badge&color=yellow&logo=github&logoWidth=20" />
 </p>
 
 ---
-
-💡 *Feel free to explore my repositories and collaborate on exciting projects!* 🚀
