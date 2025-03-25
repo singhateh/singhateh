@@ -2,6 +2,13 @@
 
 Welcome to my GitHub profile! I'm a passionate developer who loves coding, solving problems, and building innovative solutions. 🚀
 
+### 🌟 About Me
+- 💻 Full-stack Developer
+- 🔧 Passionate about Laravel, JavaScript, and modern web technologies
+- 🎨 Love designing elegant UI/UX experiences
+- 📚 Always learning new skills & technologies
+- 🚀 Open-source enthusiast
+
 ---
 
 <div align="center">
@@ -12,15 +19,6 @@ Welcome to my GitHub profile! I'm a passionate developer who loves coding, solvi
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=singhateh&theme=radical" width="95%" />
 </div>
-
----
-
-### 🌟 About Me
-- 💻 Full-stack Developer
-- 🔧 Passionate about Laravel, JavaScript, and modern web technologies
-- 🎨 Love designing elegant UI/UX experiences
-- 📚 Always learning new skills & technologies
-- 🚀 Open-source enthusiast
 
 ---
 
@@ -74,7 +72,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves coding, solvi
   <a href="https://www.facebook.com/singhateh">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://www.youtube.com/c/programmingwithsinghateh">
+  <a href="https://www.youtube.com/@SinghatehAlagie">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
