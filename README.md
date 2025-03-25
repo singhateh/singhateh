@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves coding, solvi
 ---
 
 ### 📢 Connect with Me
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/singhateh">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=30" />
   </a>
@@ -62,11 +62,11 @@ Welcome to my GitHub profile! I'm a passionate developer who loves coding, solvi
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=singhateh&theme=radical&hide_border=true" width="48%" />
 </div>
 
-<div align="center">
+<div align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=singhateh&theme=radical" width="95%" />
 </div>
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=singhateh&layout=compact&theme=radical&hide_border=true" width="48%" />
 </div>
 
