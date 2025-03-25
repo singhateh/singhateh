@@ -37,7 +37,6 @@ Welcome to my GitHub profile! I'm a passionate developer who loves coding, solvi
 ### 🛠️ Tech Stack
 
 #### 🔹 Languages & Frameworks:
-<p align="center">
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&logoWidth=30)
   ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&logoWidth=30)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&logoWidth=30)
@@ -46,15 +45,13 @@ Welcome to my GitHub profile! I'm a passionate developer who loves coding, solvi
   ![Livewire](https://img.shields.io/badge/Livewire-4D4D4D?style=for-the-badge&logo=livewire&logoColor=white&logoWidth=30)
   ![Inertia.js](https://img.shields.io/badge/Inertia.js-FF2D20?style=for-the-badge&logo=inertia&logoColor=white&logoWidth=30)
   ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&logoWidth=30)
-</p>
+
 
 #### 🔹 Tools & Platforms:
-<p align="center">
   ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&logoWidth=30)
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=30)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&logoWidth=30)
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&logoWidth=30)
-</p>
 
 ---
 
