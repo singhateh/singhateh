@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a passionate developer who loves coding, solving problems, and building innovative solutions. 🚀
 
--
+--
 
 ### 🌟 About Me
 - 💻 Full-stack Developer
@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves coding, solvi
 - 📚 Always learning new skills & technologies
 - 🚀 Open-source enthusiast
 
--
+--
 
 ### 📢 Connect with Me
 <p align="left">
@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves coding, solvi
   </a>
 </p>
 
--
+--
 
 ### 🛠️ Tech Stack
 
@@ -53,7 +53,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves coding, solvi
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&logoWidth=30)
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&logoWidth=30)
 
--
+--
 
 ### 📊 GitHub Stats
 
@@ -70,14 +70,14 @@ Welcome to my GitHub profile! I'm a passionate developer who loves coding, solvi
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=singhateh&layout=compact&theme=radical&hide_border=true" width="48%" />
 </div>
 
----
+--
 
 #### 🏆 GitHub Trophies
 <div align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=singhateh&theme=radical&no-frame=true&margin-w=15" width="95%" />
 </div>
 
--
+--
 
 ### 📢 Community & Followers
 <p align="left">
@@ -85,7 +85,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves coding, solvi
   <img src="https://img.shields.io/github/stars/singhateh?style=for-the-badge&color=yellow&logo=github&logoWidth=20" />
 </p>
 
--
+--
 
 ### 🔥 Top Contributed Repo
 
